@@ -1,0 +1,14 @@
+{
+    "cookies": [],
+    "origins": [
+        {
+            "origin": "https://demo.playwright.dev",
+            "localStorage": [
+                {
+                    "name": "foobar",
+                    "value": "qux"
+                }
+            ]
+        }
+    ]
+}
